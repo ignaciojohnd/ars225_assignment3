@@ -11,6 +11,9 @@ Outcome
 Connection Ceased is about a decaying sense of connection represented through power lines that lose their color and become less tangible. It is about our connections with people, tracing the love and history, yet it comes to an unavoidable end. There is a feeling of ‘memento mori’ and that we must value our connections while they are still there. The aesthetic of this piece is inspired by the suburban and southern gothic aesthetic of decay, isolation, and lingering hopelessness.
 
 Links
-Video: [https://drive.google.com/file/d/1Ix_sUuxtolV9PuplcZLDvnY7S7An6POr/view?usp=sharing](url)
-Music used: [https://freesound.org/people/StudioOneThirtyOne/sounds/572931/](url)
-Text used for generation: [https://www.gutenberg.org/cache/epub/1321/pg1321.txt](url)
+
+Video: https://drive.google.com/file/d/1Ix_sUuxtolV9PuplcZLDvnY7S7An6POr/view?usp=sharing
+
+Music used: https://freesound.org/people/StudioOneThirtyOne/sounds/572931/
+
+Text used for generation: https://www.gutenberg.org/cache/epub/1321/pg1321.txt
